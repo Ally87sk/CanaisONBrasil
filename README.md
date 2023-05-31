@@ -82,7 +82,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
 #EXTINF:-1 group-title="News",Noticias Agricolas
 https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mumwudwk", group-title="Filmes, Mega Cine
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mumwudwk", group-title="Filmes", Mega Cine
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/playing.jpg" group-title="WebTV", Playing tv
 https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//playlist.m3u8
@@ -93,7 +93,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/clone.jpg" group-title="WebTV", Rede Clone - WebTV
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/logo-fora-tedio-tv-white.png" group-title="WebTV", Fora do TÃ©dio
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/logo-fora-tedio-tv-white.png" group-title="WebTV", Fora do Tedio
 http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="BRASIL", TV Gazeta SP - AraÃ§atuba
@@ -117,7 +117,7 @@ https://video01.kshost.com.br:4443/adauton7191/adauton7191/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/maisnews.png" group-title="News",TV MAIS NEWS
 http://sevensp.homelinux.com/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRAZIL",TV Cultura - TV GuarÃ¡ (MA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRASIL",TV Cultura - TV Guara (MA)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="BRASIL", TV Cultura - TV Futuro (RJ)
@@ -337,7 +337,7 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="BRASIL", TV DiÃ¡rio do SertÃ£o
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News", Jovem Pan
+#EXTINF:-1 tvg-logo="https://tinyurl.com/akjdkwer", group-title="News", Jovem Pan
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="BRASIL",ISTV
@@ -478,7 +478,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="Documentario", RT Documentary Channel
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="Documentario",CGTN EspaÃ±ol
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="Documentario",CGTN Espanhol
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="Variedades",TV GalÃ­cia
