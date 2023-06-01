@@ -1,10 +1,5 @@
 #EXTM3U
-#### #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/qrcode.png" group-title="BRASIL", www.listaiptv.gratis
-https://lib.bz/video/site.mp4
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvonline.png" group-title="BRASIL", www.tvonline.fm
-https://lib.bz/video/site_gerou.mp4
-#EXTINF:-1 tvg-logo="https://lib.bz/image/logoradiosaovivofm.png" group-title="Música", radiosaovivo.fm
-https://lib.bz/video/radiosaovivofm.mp4
+#### #EXTINF:-1
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT -(PI)
